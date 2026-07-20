@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\components",
+    "\\components\\layout",
+    "\\components\\sections",
+    "\\components\\ui",
+    "\\pages",
+    "\\router",
+    "\\styles"
+  ],
+  "SelectedNode": "\\styles\\globals.scss",
+  "PreviewInSolutionExplorer": false
+}
