@@ -2,7 +2,7 @@ import { FaCheckCircle } from "react-icons/fa";
 
 function Difference() {
     return (
-        <section className="difference">
+        <section className="difference" id="diferenciacion">
 
             <div className="container difference-content">
 

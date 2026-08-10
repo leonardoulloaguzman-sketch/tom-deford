@@ -11,12 +11,9 @@ function Method() {
 
             <div className="container">
 
-                <span className="section-tag">
-                    Método Tom Deford
-                </span>
 
                 <h2 className="section-title">
-                    No vendemos teoría.
+                    No solo brindamos teoría.
                     <br />
                     Construimos soluciones aplicables.
                 </h2>

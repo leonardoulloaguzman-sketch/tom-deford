@@ -85,7 +85,7 @@ function Footer() {
 
                         <ul>
 
-                            <li>📍 Arequipa, Perú</li>
+                            <li>📍 Lima, Perú</li>
 
                             <li>📞 +51 999 999 999</li>
 

@@ -13,9 +13,7 @@ function Audience() {
 
             <div className="container">
 
-                <span className="section-tag">
-                    ¿A quién ayudamos?
-                </span>
+
 
                 <h2 className="section-title">
                     Trabajamos con organizaciones que buscan crecer

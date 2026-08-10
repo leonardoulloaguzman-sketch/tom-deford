@@ -38,17 +38,14 @@ function Transformation() {
 
     return (
         <section className="transform">
-
-            <div className="container">
-
-                <span className="section-tag">
-                    Transformación Empresarial
-                </span>
-
-                <h2 className="section-title">
+        <h2 className="section-title transformation-title">
                     Acompañamos cada etapa del crecimiento
+                    <br />
                     de tu organización
                 </h2>
+            <div className="container">
+
+                
 
                 <div className="timeline">
 

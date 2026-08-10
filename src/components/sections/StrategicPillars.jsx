@@ -12,10 +12,6 @@ function StrategicPillars() {
         <section className="strategic-pillars" id="servicios">
             <div className="container">
 
-                <span className="section-tag">
-                    Nuestros Servicios
-                </span>
-
                 <h2 className="section-title">
                     Soluciones integrales para impulsar
                     el crecimiento de tu empresa

@@ -7,9 +7,7 @@ function Hero() {
 
             <div className="hero__content">
 
-                <span className="hero__tag">
-                    Consultoría Empresarial Integral
-                </span>
+
 
                 <h1>
                     Transformamos empresas con estrategia,

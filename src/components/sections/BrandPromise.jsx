@@ -4,10 +4,6 @@ function BrandPromise() {
 
             <div className="container">
 
-                <span className="section-tag">
-                    <strong> QUIÉNES SOMOS</strong>
-                </span>
-
                 <div className="promise-card">
 
                     <div className="promise-left">

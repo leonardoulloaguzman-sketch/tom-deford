@@ -5,7 +5,7 @@ import StrategicPillars from "../components/sections/StrategicPillars";
 import Method from "../components/sections/Method";
 import Audience from "../components/sections/Audience";
 import Difference from "../components/sections/Difference";
-import Services from "../components/sections/Services";
+
 import Transformation from "../components/sections/Transformation";
 import Blog from "../components/sections/Blog";
 import Contact from "../components/sections/Contact";
@@ -21,7 +21,7 @@ function Home() {
             <Method />
             <Audience />
             <Difference />
-            <Services />
+
             <Transformation />
             <Blog />
             <Contact />

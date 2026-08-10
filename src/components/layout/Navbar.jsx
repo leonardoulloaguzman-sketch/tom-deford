@@ -15,12 +15,13 @@ function Navbar() {
                     <a href="#nosotros">Nosotros</a>
                     <a href="#servicios">Servicios</a>
                     <a href="#metodo">Método</a>
+                    <a href="#diferenciacion">Diferenciación</a>
                     <a href="#blog">Blog</a>
-                    <a href="#contacto">Contacto</a>
+                    <a href="#contact">Contacto</a>
                 </nav>
 
                 <button className="navbar__button">
-                    Diagnóstico
+                    <a href="#contact">Diagnóstico</a>
                 </button>
 
             </div>

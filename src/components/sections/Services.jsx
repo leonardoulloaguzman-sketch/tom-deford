@@ -53,11 +53,6 @@ function Services() {
         <section className="services" id="servicios">
 
             <div className="container">
-
-                <span className="section-tag">
-                    Nuestros Servicios
-                </span>
-
                 <h2 className="section-title">
                     Soluciones diseñadas para impulsar
                     el crecimiento de tu organización

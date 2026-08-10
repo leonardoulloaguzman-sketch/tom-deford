@@ -6,6 +6,7 @@ import {
 } from "react-icons/fa";
 
 function Blog() {
+
     const posts = [
         {
             icon: FaHardHat,
@@ -13,6 +14,7 @@ function Blog() {
             title: "Cómo implementar un Sistema de Gestión SST en una MYPE",
             description:
                 "Conoce los primeros pasos para cumplir la normativa y proteger a tus trabajadores.",
+            url: "/articles/sst.html",
         },
         {
             icon: FaChartLine,
@@ -20,6 +22,7 @@ function Blog() {
             title: "5 estrategias para aumentar las ventas de tu empresa",
             description:
                 "Descubre acciones prácticas para fortalecer tu proceso comercial y captar más clientes.",
+            url: "/articles/ventas.html",
         },
         {
             icon: FaUsers,
@@ -27,16 +30,14 @@ function Blog() {
             title: "El liderazgo como motor del crecimiento empresarial",
             description:
                 "Aprende cómo desarrollar equipos comprometidos y preparados para los nuevos desafíos.",
+            url: "/articles/liderazgo.html",
         },
     ];
 
     return (
         <section className="blog" id="blog">
-            <div className="container">
 
-                <span className="section-tag">
-                    Blog Empresarial
-                </span>
+            <div className="container">
 
                 <h2 className="section-title">
                     Compartimos conocimiento para impulsar
@@ -56,9 +57,7 @@ function Blog() {
                             >
 
                                 <div className="blog-image">
-
                                     <Icon />
-
                                 </div>
 
                                 <span className="blog-category">
@@ -69,12 +68,15 @@ function Blog() {
 
                                 <p>{post.description}</p>
 
-                                <button className="blog-button">
-
+                                <button
+                                    className="blog-button"
+                                    onClick={() => window.open(
+                                        post.url,
+                                        "_blank"
+                                    )}
+                                >
                                     Leer artículo
-
                                     <FaArrowRight />
-
                                 </button>
 
                             </article>
@@ -85,6 +87,7 @@ function Blog() {
                 </div>
 
             </div>
+
         </section>
     );
 }
