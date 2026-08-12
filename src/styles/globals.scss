@@ -1189,37 +1189,39 @@ ul {
 
     .services-grid {
         margin-top: 20px;
+        grid-template-columns: repeat(2, 1fr);
         gap: 10px;
     }
 
     .service-card {
-        padding: 14px 15px;
+        padding: 14px 12px;
         border-radius: 10px;
+        min-width: 0;
     }
 
     .service-icon {
-        width: 36px;
-        height: 36px;
+        width: 34px;
+        height: 34px;
         border-radius: 8px;
-        font-size: 1rem;
-        margin-bottom: 8px;
+        font-size: .95rem;
+        margin-bottom: 7px;
     }
 
     .service-card h3 {
-        font-size: .92rem;
+        font-size: .85rem;
+        line-height: 1.2;
         margin-bottom: 5px;
-        line-height: 1.25;
     }
 
     .service-card p {
-        font-size: .76rem;
-        line-height: 1.35;
+        font-size: .70rem;
+        line-height: 1.3;
     }
 
     .service-button {
-        margin-top: 8px;
-        font-size: .76rem;
-        gap: 5px;
+        margin-top: 7px;
+        font-size: .70rem;
+        gap: 4px;
     }
 
 
@@ -1255,118 +1257,148 @@ ul {
     }
 
 
-    /* ================= BLOG ================= */
-
     .blog {
-        padding: 35px 0;
+        padding: 25px 0;
     }
 
     .blog-grid {
-        margin-top: 20px;
-        gap: 10px;
+        margin-top: 15px;
+        gap: 7px;
     }
 
     .blog-card {
-        border-radius: 10px;
+        border-radius: 8px;
     }
 
     .blog-image {
-        height: 85px;
-        font-size: 1.8rem;
+        height: 60px;
+        font-size: 1.35rem;
     }
 
     .blog-category {
-        margin: 10px 13px 4px;
-        font-size: .68rem;
+        margin: 6px 9px 2px;
+        font-size: .58rem;
     }
 
     .blog-card h3 {
-        margin: 0 13px 5px;
-        font-size: .9rem;
+        margin: 0 9px 3px;
+        font-size: .78rem;
+        line-height: 1.15;
+    }
+
+    .blog-card p {
+        margin: 0 9px;
+        font-size: .64rem;
         line-height: 1.25;
     }
 
-    .blog-card p {
-        margin: 0 13px;
-        font-size: .74rem;
-        line-height: 1.35;
-    }
-
     .blog-button {
-        margin: 10px 13px;
-        font-size: .76rem;
-        gap: 5px;
+        margin: 6px 9px;
+        font-size: .64rem;
     }
 
 
-/* ================= CELULARES PEQUEÑOS ================= */
+    /* ================= CELULARES PEQUEÑOS ================= */
 
-@media (max-width: 480px) {
+    @media (max-width: 480px) {
 
-    .services {
-        padding: 30px 0;
-    }
+        .services {
+            padding: 30px 0;
+        }
 
-    .service-card {
-        padding: 12px 13px;
-    }
+        .services-grid {
+            margin-top: 16px;
+            grid-template-columns: repeat(2, 1fr);
+            gap: 8px;
+        }
 
-    .service-icon {
-        width: 32px;
-        height: 32px;
-        font-size: .9rem;
-        margin-bottom: 6px;
-    }
+        .service-card {
+            padding: 11px 10px;
+        }
 
-    .service-card h3 {
-        font-size: .88rem;
-        margin-bottom: 4px;
-    }
+        .service-icon {
+            width: 30px;
+            height: 30px;
+            font-size: .85rem;
+            margin-bottom: 5px;
+        }
 
-    .service-card p {
-        font-size: .72rem;
-        line-height: 1.3;
-    }
+        .service-card h3 {
+            font-size: .80rem;
+            margin-bottom: 4px;
+        }
 
+        .service-card p {
+            font-size: .67rem;
+            line-height: 1.25;
+        }
 
-    .method {
-        padding: 45px 0;
-    }
-
-    .method-card {
-        padding: 16px 14px;
-    }
-
-    .method-icon {
-        font-size: 1.6rem;
-        margin-bottom: 8px;
-    }
-
-    .method-card h3 {
-        font-size: .95rem;
-    }
-
-    .method-card p {
-        font-size: .78rem;
-    }
+        .service-button {
+            margin-top: 5px;
+            font-size: .67rem;
+        }
 
 
-    .blog {
-        padding: 30px 0;
-    }
+        .method {
+            padding: 45px 0;
+        }
 
-    .blog-image {
-        height: 75px;
-        font-size: 1.6rem;
-    }
+        .method-card {
+            padding: 16px 14px;
+        }
 
-    .blog-card h3 {
-        font-size: .85rem;
-        line-height: 1.2;
-    }
+        .method-icon {
+            font-size: 1.6rem;
+            margin-bottom: 8px;
+        }
 
-    .blog-card p {
-        font-size: .70rem;
-        line-height: 1.3;
+        .method-card h3 {
+            font-size: .95rem;
+        }
+
+        .method-card p {
+            font-size: .78rem;
+        }
+
+
+        .blog {
+            padding: 25px 0;
+        }
+
+        .blog-grid {
+            margin-top: 15px;
+            gap: 7px;
+        }
+
+        .blog-card {
+            border-radius: 8px;
+        }
+
+        .blog-image {
+            height: 60px;
+            font-size: 1.35rem;
+        }
+
+        .blog-category {
+            margin: 6px 9px 2px;
+            font-size: .58rem;
+        }
+
+        .blog-card h3 {
+            margin: 0 9px 3px;
+            font-size: .78rem;
+            line-height: 1.15;
+        }
+
+        .blog-card p {
+            margin: 0 9px;
+            font-size: .64rem;
+            line-height: 1.25;
+        }
+
+        .blog-button {
+            margin: 6px 9px;
+            font-size: .64rem;
+        }
     }
 }
