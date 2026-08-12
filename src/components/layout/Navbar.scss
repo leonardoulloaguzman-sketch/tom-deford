@@ -55,3 +55,62 @@
     width: 300px;
     display: block;
 }
+/* ================= NAVBAR RESPONSIVE ================= */
+
+@media (max-width: 768px) {
+
+    .navbar .container {
+        padding: 10px 15px;
+        min-height: 70px;
+    }
+
+    .navbar__logo img {
+        width: 190px;
+        height: auto;
+        max-height: 55px;
+        object-fit: contain;
+    }
+
+    .navbar__menu {
+        gap: 12px;
+    }
+
+        .navbar__menu a {
+            font-size: 0.78rem;
+        }
+
+    .navbar__button {
+        padding: 9px 12px;
+        font-size: 0.78rem;
+        white-space: nowrap;
+    }
+}
+
+
+/* ================= CELULARES PEQUEÑOS ================= */
+
+@media (max-width: 480px) {
+
+    .navbar .container {
+        padding: 8px 12px;
+    }
+
+    .navbar__logo img {
+        width: 145px;
+        max-height: 48px;
+    }
+
+    .navbar__menu {
+        gap: 8px;
+    }
+
+        .navbar__menu a {
+            font-size: 0.68rem;
+        }
+
+    .navbar__button {
+        padding: 8px 9px;
+        font-size: 0.68rem;
+        border-radius: 6px;
+    }
+}
