@@ -7,26 +7,6 @@
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\styles\\globals.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\stefa\\Downloads\\Tom-Deford\\tom-deford-frontend\\src\\components\\sections\\Hero.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\sections\\Hero.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\stefa\\Downloads\\Tom-Deford\\tom-deford-frontend\\src\\data\\services.js||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\data\\services.js||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\stefa\\Downloads\\Tom-Deford\\tom-deford-frontend\\src\\components\\sections\\Services.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\sections\\Services.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\stefa\\Downloads\\Tom-Deford\\tom-deford-frontend\\src\\components\\sections\\Blog.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\sections\\Blog.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\stefa\\Downloads\\Tom-Deford\\tom-deford-frontend\\src\\components\\sections\\Hero.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\sections\\Hero.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\stefa\\Downloads\\Tom-Deford\\tom-deford-frontend\\src\\components\\layout\\Navbar.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\layout\\Navbar.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}"
     },
@@ -35,32 +15,20 @@
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\layout\\Navbar.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\stefa\\Downloads\\Tom-Deford\\tom-deford-frontend\\src\\components\\sections\\Hero.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\sections\\Hero.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\stefa\\Downloads\\Tom-Deford\\tom-deford-frontend\\src\\components\\sections\\Services.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\sections\\Services.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\stefa\\Downloads\\Tom-Deford\\tom-deford-frontend\\src\\components\\layout\\Footer.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\layout\\Footer.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\stefa\\Downloads\\Tom-Deford\\tom-deford-frontend\\src\\components\\sections\\Contact.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\sections\\Contact.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\stefa\\Downloads\\Tom-Deford\\tom-deford-frontend\\src\\components\\sections\\Transformation.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\sections\\Transformation.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\stefa\\Downloads\\Tom-Deford\\tom-deford-frontend\\src\\components\\sections\\StrategicPillars.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\sections\\StrategicPillars.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\stefa\\Downloads\\Tom-Deford\\tom-deford-frontend\\src\\components\\sections\\Method.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\sections\\Method.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\stefa\\Downloads\\Tom-Deford\\tom-deford-frontend\\src\\components\\sections\\Difference.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\sections\\Difference.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\stefa\\Downloads\\Tom-Deford\\tom-deford-frontend\\src\\components\\sections\\Audience.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\sections\\Audience.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     }
   ],
   "DocumentGroupContainers": [
@@ -80,14 +48,14 @@
               "RelativeDocumentMoniker": "src\\styles\\globals.scss",
               "ToolTip": "C:\\Users\\stefa\\Downloads\\Tom-Deford\\tom-deford-frontend\\src\\styles\\globals.scss",
               "RelativeToolTip": "src\\styles\\globals.scss",
-              "ViewState": "AgIAAIgEAAAAAAAAAAAiwJcEAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAEMFAAAAAAAAAAAiwFUFAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002663|",
               "WhenOpened": "2026-08-12T21:55:00.339Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Hero.scss",
               "DocumentMoniker": "C:\\Users\\stefa\\Downloads\\Tom-Deford\\tom-deford-frontend\\src\\components\\sections\\Hero.scss",
               "RelativeDocumentMoniker": "src\\components\\sections\\Hero.scss",
@@ -100,31 +68,31 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "Navbar.scss",
               "DocumentMoniker": "C:\\Users\\stefa\\Downloads\\Tom-Deford\\tom-deford-frontend\\src\\components\\layout\\Navbar.scss",
               "RelativeDocumentMoniker": "src\\components\\layout\\Navbar.scss",
               "ToolTip": "C:\\Users\\stefa\\Downloads\\Tom-Deford\\tom-deford-frontend\\src\\components\\layout\\Navbar.scss",
               "RelativeToolTip": "src\\components\\layout\\Navbar.scss",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAiwHMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002663|",
-              "WhenOpened": "2026-07-20T04:05:13.696Z"
+              "WhenOpened": "2026-07-20T04:05:13.696Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 2,
               "Title": "Navbar.jsx",
               "DocumentMoniker": "C:\\Users\\stefa\\Downloads\\Tom-Deford\\tom-deford-frontend\\src\\components\\layout\\Navbar.jsx",
               "RelativeDocumentMoniker": "src\\components\\layout\\Navbar.jsx",
               "ToolTip": "C:\\Users\\stefa\\Downloads\\Tom-Deford\\tom-deford-frontend\\src\\components\\layout\\Navbar.jsx",
               "RelativeToolTip": "src\\components\\layout\\Navbar.jsx",
-              "ViewState": "AgIAABQAAAAAAAAAAAAQwAkAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
               "WhenOpened": "2026-07-20T04:01:48.3Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 5,
               "Title": "Footer.jsx",
               "DocumentMoniker": "C:\\Users\\stefa\\Downloads\\Tom-Deford\\tom-deford-frontend\\src\\components\\layout\\Footer.jsx",
               "RelativeDocumentMoniker": "src\\components\\layout\\Footer.jsx",
@@ -136,7 +104,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 6,
               "Title": "Transformation.jsx",
               "DocumentMoniker": "C:\\Users\\stefa\\Downloads\\Tom-Deford\\tom-deford-frontend\\src\\components\\sections\\Transformation.jsx",
               "RelativeDocumentMoniker": "src\\components\\sections\\Transformation.jsx",
@@ -148,7 +116,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Services.jsx",
               "DocumentMoniker": "C:\\Users\\stefa\\Downloads\\Tom-Deford\\tom-deford-frontend\\src\\components\\sections\\Services.jsx",
               "RelativeDocumentMoniker": "src\\components\\sections\\Services.jsx",
@@ -157,102 +125,6 @@
               "ViewState": "AgIAAA4AAAAAAAAAAAAQwEUAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
               "WhenOpened": "2026-07-20T03:34:22.131Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Hero.jsx",
-              "DocumentMoniker": "C:\\Users\\stefa\\Downloads\\Tom-Deford\\tom-deford-frontend\\src\\components\\sections\\Hero.jsx",
-              "RelativeDocumentMoniker": "src\\components\\sections\\Hero.jsx",
-              "ToolTip": "C:\\Users\\stefa\\Downloads\\Tom-Deford\\tom-deford-frontend\\src\\components\\sections\\Hero.jsx",
-              "RelativeToolTip": "src\\components\\sections\\Hero.jsx",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2026-07-20T03:34:14.491Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Contact.jsx",
-              "DocumentMoniker": "C:\\Users\\stefa\\Downloads\\Tom-Deford\\tom-deford-frontend\\src\\components\\sections\\Contact.jsx",
-              "RelativeDocumentMoniker": "src\\components\\sections\\Contact.jsx",
-              "ToolTip": "C:\\Users\\stefa\\Downloads\\Tom-Deford\\tom-deford-frontend\\src\\components\\sections\\Contact.jsx",
-              "RelativeToolTip": "src\\components\\sections\\Contact.jsx",
-              "ViewState": "AgIAADwAAAAAAAAAAAAmwFIAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2026-07-20T03:34:08.012Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Blog.jsx",
-              "DocumentMoniker": "C:\\Users\\stefa\\Downloads\\Tom-Deford\\tom-deford-frontend\\src\\components\\sections\\Blog.jsx",
-              "RelativeDocumentMoniker": "src\\components\\sections\\Blog.jsx",
-              "ToolTip": "C:\\Users\\stefa\\Downloads\\Tom-Deford\\tom-deford-frontend\\src\\components\\sections\\Blog.jsx",
-              "RelativeToolTip": "src\\components\\sections\\Blog.jsx",
-              "ViewState": "AgIAAAEAAAAAAAAAAAASwAsAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2026-07-20T03:34:04.481Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Difference.jsx",
-              "DocumentMoniker": "C:\\Users\\stefa\\Downloads\\Tom-Deford\\tom-deford-frontend\\src\\components\\sections\\Difference.jsx",
-              "RelativeDocumentMoniker": "src\\components\\sections\\Difference.jsx",
-              "ToolTip": "C:\\Users\\stefa\\Downloads\\Tom-Deford\\tom-deford-frontend\\src\\components\\sections\\Difference.jsx",
-              "RelativeToolTip": "src\\components\\sections\\Difference.jsx",
-              "ViewState": "AgIAAC8AAAAAAAAAAAAmwEUAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2026-07-20T03:32:25.939Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Audience.jsx",
-              "DocumentMoniker": "C:\\Users\\stefa\\Downloads\\Tom-Deford\\tom-deford-frontend\\src\\components\\sections\\Audience.jsx",
-              "RelativeDocumentMoniker": "src\\components\\sections\\Audience.jsx",
-              "ToolTip": "C:\\Users\\stefa\\Downloads\\Tom-Deford\\tom-deford-frontend\\src\\components\\sections\\Audience.jsx",
-              "RelativeToolTip": "src\\components\\sections\\Audience.jsx",
-              "ViewState": "AgIAACkAAAAAAAAAAAAQwEYAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2026-07-20T03:31:04.815Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Method.jsx",
-              "DocumentMoniker": "C:\\Users\\stefa\\Downloads\\Tom-Deford\\tom-deford-frontend\\src\\components\\sections\\Method.jsx",
-              "RelativeDocumentMoniker": "src\\components\\sections\\Method.jsx",
-              "ToolTip": "C:\\Users\\stefa\\Downloads\\Tom-Deford\\tom-deford-frontend\\src\\components\\sections\\Method.jsx",
-              "RelativeToolTip": "src\\components\\sections\\Method.jsx",
-              "ViewState": "AgIAADwAAAAAAAAAAAAmwFUAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2026-07-20T03:29:20.091Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "services.js",
-              "DocumentMoniker": "C:\\Users\\stefa\\Downloads\\Tom-Deford\\tom-deford-frontend\\src\\data\\services.js",
-              "RelativeDocumentMoniker": "src\\data\\services.js",
-              "ToolTip": "C:\\Users\\stefa\\Downloads\\Tom-Deford\\tom-deford-frontend\\src\\data\\services.js",
-              "RelativeToolTip": "src\\data\\services.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2026-07-20T03:26:16.561Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "StrategicPillars.jsx",
-              "DocumentMoniker": "C:\\Users\\stefa\\Downloads\\Tom-Deford\\tom-deford-frontend\\src\\components\\sections\\StrategicPillars.jsx",
-              "RelativeDocumentMoniker": "src\\components\\sections\\StrategicPillars.jsx",
-              "ToolTip": "C:\\Users\\stefa\\Downloads\\Tom-Deford\\tom-deford-frontend\\src\\components\\sections\\StrategicPillars.jsx",
-              "RelativeToolTip": "src\\components\\sections\\StrategicPillars.jsx",
-              "ViewState": "AgIAAFgAAAAAAAAAAAAmwG4AAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2026-07-20T03:23:10.431Z"
             }
           ]
         }
