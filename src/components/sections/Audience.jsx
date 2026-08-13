@@ -15,7 +15,7 @@ function Audience() {
 
 
 
-                <h2 className="section-title">
+                <h2 className="section-title audience-title">
                     Trabajamos con organizaciones que buscan crecer
                     de manera sostenible.
                 </h2>
